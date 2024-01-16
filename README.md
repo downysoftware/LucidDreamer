@@ -1,3 +1,5 @@
+I never got this to work properly, but I rigged up a useful bunch of BAT files for activating a Conda environment and launching a Gradio app in Chrome, via desktop shortcut with icon, which could be useful for future projects.
+
 <p align="center">
     <img src="assets/logo_color.png" height=180>
 </p>
