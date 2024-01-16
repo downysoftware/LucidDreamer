@@ -1,4 +1,4 @@
-I never got this to work properly, but I rigged up a useful bunch of BAT files for activating a Conda environment and launching a Gradio app in Chrome, via desktop shortcut with icon, which could be useful for future projects.
+I never got this to work properly, but I rigged up a series of BAT files for activating a Conda environment and launching a Gradio app in Chrome, via desktop shortcut with icon, which could be useful for future projects.
 
 ```
 LucidDreamer.bat
